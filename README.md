@@ -4,6 +4,16 @@ Team NR, Dormathon 2026, Track 1: Predictive Model Track ("Predict early, decide
 
 **Live app:** https://track-1-predictive-ai-hackathon-b42hedqwgmeqnsng834wpc.streamlit.app
 
+## 🏆 My part: Dormathon 2026
+
+I built Morning Work Orders with Team NR at **Dormathon 2026** (October 2026), in **Track 1: Predictive Model Track** ("Predict early, decide better").
+
+- **My role:** AI Developer
+- **Live app:** [Morning Work Orders on Streamlit](https://track-1-predictive-ai-hackathon-b42hedqwgmeqnsng834wpc.streamlit.app)
+- **Original repo:** [Lucifr7/Track-1-predictive-ai-hackathon](https://github.com/Lucifr7/Track-1-predictive-ai-hackathon)
+
+---
+
 A maintenance technician looks after 50 machines and has time to check about 3 of them before the shift starts. This tool reads each machine's sensor readings and gives a short ranked list: which machines to check first, what is likely wrong, why, and what to do.
 
 ## What it does
